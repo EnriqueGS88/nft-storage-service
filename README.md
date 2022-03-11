@@ -1,6 +1,8 @@
 # Description
 
-[<img align="center" alt="NFTstorage" width="200px" src="https://camo.githubusercontent.com/1a0cf17dd0a19c4c4df2cfdff02eb4628f5ae35b7dd30dcd747b770ca1a2fb53/68747470733a2f2f6e66742e73746f726167652f696d616765732f6c6f676f2d6e66742e73746f726167652e737667" />][nftstorage]
+<!-- [<img align="center" alt="NFTstorage" width="200px" src="https://camo.githubusercontent.com/1a0cf17dd0a19c4c4df2cfdff02eb4628f5ae35b7dd30dcd747b770ca1a2fb53/68747470733a2f2f6e66742e73746f726167652f696d616765732f6c6f676f2d6e66742e73746f726167652e737667" />][nftstorage] -->
+
+[![N|Solid](https://camo.githubusercontent.com/1a0cf17dd0a19c4c4df2cfdff02eb4628f5ae35b7dd30dcd747b770ca1a2fb53/68747470733a2f2f6e66742e73746f726167652f696d616765732f6c6f676f2d6e66742e73746f726167652e737667)](https://nft.storage/)
 
 Simple service to store data in a decentralized manner using _NFT Storage_ service.
 
